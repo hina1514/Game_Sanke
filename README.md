@@ -1,4 +1,4 @@
-# Game_Sanke
+# Game_Snake
 Đây là trò chơi Rắn săn mồi cổ điển được viết bằng hợp ngữ Assembly (x86), sử dụng các ngắt BIOS/DOS và thao tác trực tiếp với bộ nhớ video để hiển thị đồ họa.
 ## Các tính năng chính
 - Điều khiển rắn bằng các phím mũi tên (←, →, ↑, ↓)
