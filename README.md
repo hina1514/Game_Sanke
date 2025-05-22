@@ -9,3 +9,5 @@
 - Tốc độ game tăng dần theo điểm số
 - Xử lý va chạm với tường và thân rắn
 ## Minh hoạ giao diện
+### Giao diện màn hình chính
+![Giao diện màn hình chính](http://hina1514/Game_Sanke/demo/main_menu.png)
