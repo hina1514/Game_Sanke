@@ -18,7 +18,7 @@
 ### Giao diện thua game
 ![Giao diện thua game](https://github.com/hina1514/Game_Snake/blob/main/demo/game_over.png)
 ## DEMO
-
+https://github.com/user-attachments/assets/6a4766de-209e-462c-bb6e-064abba7ff9c
 ## Cách cài đặt
 - Cài emu8086
 - Tải file code_snake.asm
